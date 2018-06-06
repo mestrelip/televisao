@@ -1,0 +1,823 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="NBR - TV Nacional Brasil">
+    <display-name lang="pt">NBR</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV BRASIL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV CAMARA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV SENADO</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV JUSTICA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV ESCOLA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Cultura">
+    <display-name lang="pt">TV CULTURA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SBT SP">
+    <display-name lang="pt">SBT SP</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">GLOBO SP</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Record SP">
+    <display-name lang="pt">RECORD SP</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Rede TV!">
+    <display-name lang="pt">REDE TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Gazeta">
+    <display-name lang="pt">TV GAZETA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Mega TV">
+    <display-name lang="pt">MEGA TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Canal 21">
+    <display-name lang="pt">CANAL 21</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Ideal TV">
+    <display-name lang="pt">IDEAL TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Chef TV">
+    <display-name lang="pt">CHEF TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Mix TV">
+    <display-name lang="pt">MIX TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Polishop TV">
+    <display-name lang="pt">POLISHOP TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">REDE VIDA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Aparecida">
+    <display-name lang="pt">TV APARECIDA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">CANÇÃO NOVA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="OFF">
+    <display-name lang="pt">OFF</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV 3">
+    <display-name lang="pt">SPORTV 3</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV 2">
+    <display-name lang="pt">SPORTV 2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV">
+    <display-name lang="pt">SPORTV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Globo News">
+    <display-name lang="pt">GLOBO NEWS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">MULTISHOW</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">VIVA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Mais Globosat">
+    <display-name lang="pt">MAIS GLOBOSAT</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">DISCORVERY KIDS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">GLOOB</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Rá-Tim-Bum">
+    <display-name lang="pt">TV RATI BUM</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">DISNEY JUNIOR</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">DISNEY CHANNEL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">DISNEY XD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">TOONCAST</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">NICKELODEON</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">BOOMERANG</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Bem Simples">
+    <display-name lang="pt">BEM SIMPLES</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN+">
+    <display-name lang="pt">ESPN+</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Sports">
+    <display-name lang="pt">FOX SPORTS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Sports 2">
+    <display-name lang="pt">FOX SPORTS 2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">BAND SPORTS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="WOOHOO">
+    <display-name lang="pt">WOOHOO</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band NEWS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="CNN International">
+    <display-name lang="pt">CNN INTERNACIONAL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="pt">BLOMBERG</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">RECORD NEWS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="pt">BBC WORLD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">DISCORVERY CHANNEL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="pt">HISTORY CHANNEL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="NatGeo">
+    <display-name lang="pt">NAT GEO</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">DISCORVERY TURBO</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">DISCORVERY SCIENCE</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">DISCORVERY CIVILIZATION</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="pt">CURTA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Home &amp; Health">
+    <display-name lang="pt">DISCORVERY HOME HELF</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="pt">FOX LIFE</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">LIFETIME</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">ARTE 1</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="truTV">
+    <display-name lang="pt">TRU TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Glitz*">
+    <display-name lang="pt">GLITZ</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TNT Séries">
+    <display-name lang="pt">TNT SERIES</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Play TV">
+    <display-name lang="pt">PLAY TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FishTV">
+    <display-name lang="pt">FISH TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">WARNER CHANNEL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">SONY</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">SPACE</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">CINEMAX</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">COMEDY CENTRAL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">SYFY</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">STUDIO UNIVERSAL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="pt">UNIVERSAL CHANNEL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">MEGAPIX</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">CANAL BRASIL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Investigação Discovery">
+    <display-name lang="pt">INVESTIGAÇÃO DISCORVERY</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="pt">PARAMOUNT CHANNEL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Film &amp; Arts">
+    <display-name lang="pt">Film &amp; Arts</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Eurochannel">
+    <display-name lang="pt">EURO CHANNEL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO PLUS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Plus E">
+    <display-name lang="pt">HBO PLUS E</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO FAMILY</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO SIGNATURE</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Up">
+    <display-name lang="pt">MAX UP</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max">
+    <display-name lang="pt">MAX</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Prime">
+    <display-name lang="pt">MAX PRIME</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Prime *e">
+    <display-name lang="pt">Max Prime *e</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">TELECINE PREMIUM</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">TELECINE ACTION</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">TELECINE TOUCH</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">TELECINE FUN</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">TELECINE PIPOCA</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">TELECINE CULT</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="NHK">
+    <display-name lang="pt">NHK</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="pt">RAI</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="pt">Deutsche Welle</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="RTPi">
+    <display-name lang="pt">RTPi</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ART Latino">
+    <display-name lang="pt">ART Latino</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV España">
+    <display-name lang="pt">TV España</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 3">
+    <display-name lang="pt">PREMIERE 3</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="pt">PREMIERE 2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">PREMIERE CLUBES</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 4">
+    <display-name lang="pt">PREMIERE 4</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 5">
+    <display-name lang="pt">PREMIERE 5</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 6">
+    <display-name lang="pt">PREMIERE 6</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 7">
+    <display-name lang="pt">PREMIERE 7</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 8 Mosaico">
+    <display-name lang="pt">Premiere 8 Mosaico</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">COMBATE</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Sexy Hot">
+    <display-name lang="pt">SEXY HOT</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Sex Privé Brasileirinhas">
+    <display-name lang="pt">Sex Privé Brasileirinhas</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SBT SP HD">
+    <display-name lang="pt">SBT SP HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Globo SP HD">
+    <display-name lang="pt">Globo SP HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Rede TV! HD">
+    <display-name lang="pt">Rede TV HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Band SP HD">
+    <display-name lang="pt">Band SP HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV 3 HD">
+    <display-name lang="pt">SPORTV 3 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV 2 HD">
+    <display-name lang="pt">SPORTV 2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV HD">
+    <display-name lang="pt">SPORTV HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Globo News HD">
+    <display-name lang="pt">GLOBO NEWS HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Multishow HD">
+    <display-name lang="pt">MULTISHOW HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Viva HD">
+    <display-name lang="pt">VIVA HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Mais Globosat HD">
+    <display-name lang="pt">MAIS GLOBOSAT HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">DISCOREVERY KIDS HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Gloob HD">
+    <display-name lang="pt">GLOOB HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">DISNEY CHANNEL HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pt">NICKELODEON HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">CARTOON NETWORK HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN BRASIL HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN+ HD">
+    <display-name lang="pt">ESPN+ HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Sports HD">
+    <display-name lang="pt">FOX SPORTS HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Sports 2 HD">
+    <display-name lang="pt">FOX SPORTS 2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">BAND SPORTS HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery HD Theater">
+    <display-name lang="pt">DISCORVERY HD TEATHER</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">DISCORVERY CHANNEL HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="History Channel HD">
+    <display-name lang="pt">HISTORY CHANNEL HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="NatGeo HD">
+    <display-name lang="pt">NAT GEO HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="NatGeo Wild">
+    <display-name lang="pt">NAT GEO WILD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery HD World">
+    <display-name lang="pt">Discovery HD World</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Home &amp; Health HD">
+    <display-name lang="pt">Home &amp; Health HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="pt">LIFE TIME HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="truTV HD">
+    <display-name lang="pt">TRU TV HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="pt">MTV HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Warner Channel HD">
+    <display-name lang="pt">WARNER CHANNEL HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="pt">SONY HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TBS HD">
+    <display-name lang="pt">TBS HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">SPACE HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">CINEMAX HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">COMEDY CENTRAL HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Universal Channel HD">
+    <display-name lang="pt">UNIVERSAL CHANNEL HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">MEGAPIX HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Canal Brasil HD">
+    <display-name lang="pt">CANAL BRASIL HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Investigação Discovery HD">
+    <display-name lang="pt">INVESTIGAÇÃO DISCORVERY HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Paramount Channel HD">
+    <display-name lang="pt">PARAMOUNT CHANNEL HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX 1 HD">
+    <display-name lang="pt">FOX 1 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Action HD">
+    <display-name lang="pt">FOX Action HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO (HD)">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Family HD">
+    <display-name lang="pt">HBO FAMILY HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="pt">HBO SIGNATURE HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Up HD">
+    <display-name lang="pt">MAX UP HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max HD">
+    <display-name lang="pt">MAX HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Prime HD">
+    <display-name lang="pt">MAX PRIME HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">TELECINE PREMIUM HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">TELECINE ACTION HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Touch HD">
+    <display-name lang="pt">TELECINE TOUCH HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="pt">TELECINE FUN HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">TELECINE PIPOCA HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Cult HD">
+    <display-name lang="pt">TELECINE CULT HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes HD">
+    <display-name lang="pt">PREMIERE CLUBES HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 2 HD">
+    <display-name lang="pt">PREMIERE 2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 3 HD">
+    <display-name lang="pt">PREMIERE 3 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">COMBATE HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+</tv>
